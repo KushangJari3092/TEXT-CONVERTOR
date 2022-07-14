@@ -1,0 +1,19 @@
+.light {
+  background-color: white;
+}
+.dark {
+  background-color: rgb(0, 0, 0);
+}
+.rad {
+  border-radius: 15px;
+}
+
+.modeThemeDark {
+  color: black;
+}
+.modeThemeLight {
+  color: white;
+}
+.h2{
+  color: black;
+}
